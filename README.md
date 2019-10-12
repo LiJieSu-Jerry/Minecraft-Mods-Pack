@@ -2,9 +2,8 @@
 洛卜樂旅社 Minecraft 伺服器用模組包
 
 <b><font size="20"> Forge 版本 1.12.2-14.23.5.2838 </br></b>
-https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-installer-win.exe12</br>
 
-伺服器版本 1.12.2</b>
+<b>伺服器版本 1.12.2</b>
 
 ----模組包內容---- </br>
 StorageDrawers                     
