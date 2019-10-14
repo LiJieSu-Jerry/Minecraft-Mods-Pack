@@ -23,5 +23,8 @@ Ore Reeds
 thaumcraft                                
 Ender IO                                    
 Blockcraftery
+AE2
+Backpack
+OfflineSkin
 
 歡迎旅社人員取用
